@@ -1,3 +1,3 @@
 # discord.py snippets
 
-readme soon
+Simple code snippets for discord.py bots
