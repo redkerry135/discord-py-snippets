@@ -18,7 +18,7 @@ async def color(ctx):
                 value="Commands to create and change the color of your user role. The role's name is your username at the time of role creation, and username changes do not carry across to the role.",
                 inline=False)
         embed.add_field(name=".color set <hex color>",
-                value="Set your color role with a given hex code.\n example usage: `.color set #dd8cff`",
+                value="Set your color role with a given hex code.\n Example usage: `.color set #dd8cff`",
                 inline=False)
         embed.add_field(name=".color change <hex color>",
                 value="Change your current color role to a different color.\n Example usage: ``.color change #607bd1``",
