@@ -1,2 +1,3 @@
-# simple-color-bot
-A very simple color role creation bot/code snippet made in discord.py
+# discord.py snippets
+
+readme soon
