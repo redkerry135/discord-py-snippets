@@ -8,3 +8,4 @@ Note:
 
 To do:
 - Color confirmation embed
+- Display other specified user's color roles in a command
